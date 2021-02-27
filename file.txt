@@ -1,4 +1,4 @@
-First line is red.
+First line is pink.
 Second line is green.
 Third line is blue.
 Fourth line is yellow.
